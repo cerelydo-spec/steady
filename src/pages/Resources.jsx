@@ -31,7 +31,7 @@ const RESOURCES = [
     sub: 'Dr. David Ludwig',
     description: 'Explains why low-fat diets backfire and how to reset your metabolism through smarter food choices — practical for long-term maintenance.',
     affiliate: true,
-    href: 'https://www.amazon.com/Always-Hungry-Conquer-Cravings-Permanent/dp/1455533661',
+    href: 'https://www.amazon.com/Always-Hungry-Conquer-Cravings-Permanently/dp/1455533866',
   },
   {
     id: 'intuitive-eating',
