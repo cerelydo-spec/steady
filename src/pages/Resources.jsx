@@ -20,7 +20,7 @@ const RESOURCES = [
     sub: 'Dr. Jason Fung',
     description: 'A science-backed look at why we gain weight and how insulin resistance drives obesity — essential context for anyone coming off GLP-1 medication.',
     affiliate: true,
-    href: '#',
+    href: 'https://www.amazon.com/Obesity-Code-Unlocking-Secrets-Weight/dp/1771641258',
   },
   {
     id: 'always-hungry',
@@ -31,7 +31,7 @@ const RESOURCES = [
     sub: 'Dr. David Ludwig',
     description: 'Explains why low-fat diets backfire and how to reset your metabolism through smarter food choices — practical for long-term maintenance.',
     affiliate: true,
-    href: '#',
+    href: 'https://www.amazon.com/Always-Hungry-Conquer-Cravings-Permanent/dp/1455533661',
   },
   {
     id: 'intuitive-eating',
@@ -42,7 +42,7 @@ const RESOURCES = [
     sub: 'Evelyn Tribole & Elyse Resch',
     description: 'The original framework for making peace with food and rebuilding body trust — especially valuable during the post-medication adjustment period.',
     affiliate: true,
-    href: '#',
+    href: 'https://www.amazon.com/Intuitive-Eating-4th-Anti-Diet-Revolutionary/dp/1250255198',
   },
   {
     id: 'plateau-effect',
@@ -53,7 +53,7 @@ const RESOURCES = [
     sub: 'Bob Sullivan & Hugh Thompson',
     description: 'Explores the science behind why progress stalls in every domain and how to break through — applies directly to weight maintenance plateaus.',
     affiliate: true,
-    href: '#',
+    href: 'https://www.amazon.com/Plateau-Effect-Getting-Stuck-Change/dp/0525952802',
   },
 
   // ── Apps ─────────────────────────────────────────────────────────────────
@@ -66,7 +66,7 @@ const RESOURCES = [
     sub: 'Precision nutrition tracking',
     description: 'Tracks micronutrients alongside macros — ideal for post-GLP-1 users who need to ensure adequate protein, zinc, and B-vitamins during weight maintenance.',
     affiliate: false,
-    href: '#',
+    href: 'https://cronometer.com',
   },
   {
     id: 'zero',
@@ -77,7 +77,7 @@ const RESOURCES = [
     sub: 'Intermittent fasting tracker',
     description: 'Clean, simple fasting timer with zone tracking and insights — pairs well with the appetite changes that often persist after stopping GLP-1 medication.',
     affiliate: false,
-    href: '#',
+    href: 'https://www.zerofasting.com',
   },
   {
     id: 'headspace',
@@ -88,7 +88,7 @@ const RESOURCES = [
     sub: 'Stress & mindfulness',
     description: 'Guided meditation and stress management — directly relevant to weight maintenance since cortisol is one of the primary drivers of rebound weight gain.',
     affiliate: false,
-    href: '#',
+    href: 'https://www.headspace.com',
   },
   {
     id: 'oura',
@@ -99,7 +99,7 @@ const RESOURCES = [
     sub: 'Sleep & recovery tracking',
     description: 'Tracks sleep quality, HRV, and readiness scores — poor sleep measurably increases hunger hormones, making it a key variable to monitor in maintenance.',
     affiliate: false,
-    href: '#',
+    href: 'https://ouraring.com',
   },
 
   // ── Nutrition ─────────────────────────────────────────────────────────────
@@ -112,7 +112,7 @@ const RESOURCES = [
     sub: 'Continuous glucose monitor',
     description: 'Real-time blood glucose feedback shows exactly how different meals affect your metabolic response — particularly useful for understanding post-GLP-1 glucose patterns.',
     affiliate: true,
-    href: '#',
+    href: 'https://www.levelshealth.com',
   },
   {
     id: 'momentous',
@@ -123,7 +123,7 @@ const RESOURCES = [
     sub: 'NSF-certified protein powder',
     description: 'Third-party tested for purity and label accuracy — hitting 1.2–1.6g protein per kg body weight is one of the most evidence-backed strategies for maintenance.',
     affiliate: true,
-    href: '#',
+    href: 'https://www.livemomentous.com',
   },
   {
     id: 'factor',
@@ -134,7 +134,7 @@ const RESOURCES = [
     sub: 'Ready-made meal delivery',
     description: 'Chef-prepared, dietitian-approved meals with clear macro breakdowns — removes the decision fatigue that can derail nutrition habits in the maintenance phase.',
     affiliate: true,
-    href: '#',
+    href: 'https://www.factor75.com',
   },
   {
     id: 'vital-proteins',
@@ -145,7 +145,7 @@ const RESOURCES = [
     sub: 'Collagen peptides',
     description: 'Collagen supports skin elasticity and joint health during body recomposition — commonly relevant after significant weight loss on GLP-1 therapy.',
     affiliate: true,
-    href: '#',
+    href: 'https://www.vitalproteins.com',
   },
 
   // ── Telehealth ────────────────────────────────────────────────────────────
@@ -158,7 +158,7 @@ const RESOURCES = [
     sub: 'Metabolic health program',
     description: 'Year-long metabolic health program combining GLP-1 medication management with lifestyle coaching — designed specifically for sustainable weight maintenance.',
     affiliate: false,
-    href: '#',
+    href: 'https://www.joincalibrate.com',
   },
   {
     id: 'found',
@@ -169,7 +169,7 @@ const RESOURCES = [
     sub: 'Weight care platform',
     description: 'Personalised weight care combining clinical treatment, medication management, and behavioural coaching for people navigating long-term weight health.',
     affiliate: false,
-    href: '#',
+    href: 'https://www.joinfound.com',
   },
   {
     id: 'ro-body',
@@ -180,7 +180,7 @@ const RESOURCES = [
     sub: 'GLP-1 follow-up care',
     description: 'Telehealth platform offering ongoing GLP-1 prescriptions and follow-up care — useful for those continuing or transitioning off semaglutide or tirzepatide.',
     affiliate: false,
-    href: '#',
+    href: 'https://ro.co/weight-loss',
   },
   {
     id: 'noom-med',
@@ -191,7 +191,7 @@ const RESOURCES = [
     sub: 'Medication + coaching',
     description: 'Combines prescription GLP-1 management with Noom\'s behaviour-change curriculum — bridges the gap between medication use and the psychological side of maintenance.',
     affiliate: false,
-    href: '#',
+    href: 'https://www.noom.com/med',
   },
 ]
 
