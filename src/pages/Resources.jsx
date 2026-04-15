@@ -20,7 +20,7 @@ const RESOURCES = [
     sub: 'Dr. Jason Fung',
     description: 'A science-backed look at why we gain weight and how insulin resistance drives obesity — essential context for anyone coming off GLP-1 medication.',
     affiliate: true,
-    href: 'https://www.amazon.com/Obesity-Code-Unlocking-Secrets-Weight/dp/1771641258',
+    href: 'https://amzn.to/4vxXO5E',
   },
   {
     id: 'always-hungry',
@@ -31,7 +31,7 @@ const RESOURCES = [
     sub: 'Dr. David Ludwig',
     description: 'Explains why low-fat diets backfire and how to reset your metabolism through smarter food choices — practical for long-term maintenance.',
     affiliate: true,
-    href: 'https://www.amazon.com/Always-Hungry-Conquer-Cravings-Permanently/dp/1455533866',
+    href: 'https://amzn.to/3OCurPb',
   },
   {
     id: 'intuitive-eating',
@@ -42,7 +42,7 @@ const RESOURCES = [
     sub: 'Evelyn Tribole & Elyse Resch',
     description: 'The original framework for making peace with food and rebuilding body trust — especially valuable during the post-medication adjustment period.',
     affiliate: true,
-    href: 'https://www.amazon.com/Intuitive-Eating-4th-Anti-Diet-Revolutionary/dp/1250255198',
+    href: 'https://amzn.to/4tGkaQI',
   },
   {
     id: 'plateau-effect',
@@ -53,7 +53,7 @@ const RESOURCES = [
     sub: 'Bob Sullivan & Hugh Thompson',
     description: 'Explores the science behind why progress stalls in every domain and how to break through — applies directly to weight maintenance plateaus.',
     affiliate: true,
-    href: 'https://www.amazon.com/Plateau-Effect-Getting-Stuck-Change/dp/0525952802',
+    href: 'https://amzn.to/4mBT4Iw',
   },
 
   // ── Apps ─────────────────────────────────────────────────────────────────
