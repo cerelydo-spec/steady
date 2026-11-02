@@ -6,7 +6,7 @@ import { parseWeight } from '../utils/calculations'
 import clsx from 'clsx'
 
 const STEPS = [
-  { id: 'welcome', title: 'Welcome to Steady' },
+  { id: 'welcome', title: 'Welcome to POUDA PDG8 Wellness' },
   { id: 'disclaimer', title: 'Important Notice' },
   { id: 'profile', title: 'About You' },
   { id: 'weight', title: 'Your Weight Goals' },
