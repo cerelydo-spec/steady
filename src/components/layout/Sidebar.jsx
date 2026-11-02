@@ -25,10 +25,9 @@ export default function Sidebar({ currentPage, onNavigate }) {
         <div className="w-8 h-8 bg-teal-500 rounded-xl flex items-center justify-center">
           <Leaf size={16} className="text-white" aria-hidden="true" />
         </div>
-        <div>
-          <span className="text-warm-900 font-semibold text-sm">Steady</span>
-          <p className="text-warm-400 text-[10px]">GLP-1 Maintenance</p>
-        </div>
+        <span className="text-warm-900 font-semibold text-sm">POUDA PDG8</span>
+<p className="text-warm-400 text-[10px]">Wellness</p>
+          </div>
       </div>
 
       {/* Nav links */}
