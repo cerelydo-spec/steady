@@ -14,7 +14,7 @@ export function DisclaimerBanner() {
     >
       <ShieldAlert size={14} className="shrink-0 mt-0.5" aria-hidden="true" />
       <span>
-        <strong>Wellness tool only.</strong> Steady does not provide medical advice. Always consult your healthcare provider before changing your nutrition, exercise, or medication regimen.
+        <strong>Wellness tool only.</strong> POUDA PDG8 Wellness does not provide medical advice. Always consult your healthcare provider before changing your nutrition, exercise, or medication regimen.
       </span>
       <button
         onClick={() => setShow(false)}
@@ -32,7 +32,7 @@ export function DisclaimerModal({ isOpen, onClose }) {
     <Modal isOpen={isOpen} onClose={onClose} title="Medical Disclaimer" size="md">
       <div className="space-y-4 text-sm text-warm-700 leading-relaxed">
         <p>
-          <strong className="text-warm-900">Steady is a wellness coaching tool.</strong> It is not a medical device, and it does not provide medical advice, diagnosis, or treatment.
+          <strong className="text-warm-900">POUDA PDG8 Wellness is a wellness coaching tool.</strong> It is not a medical device, and it does not provide medical advice, diagnosis, or treatment.
         </p>
         <p>
           The information, guidance, and AI coaching provided by this application are intended solely for general wellness education and habit support during the post-GLP-1 maintenance phase.
