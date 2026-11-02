@@ -204,7 +204,7 @@ const SECTION_ICONS = {
 
 const SECTION_HEADINGS = {
   books:      { title: 'Recommended Reading',       sub: 'Curated books on weight maintenance and post-GLP-1 life.' },
-  apps:       { title: 'Complementary Apps',        sub: 'Apps that pair well with Steady to support your daily habits.' },
+  apps:       { title: 'Complementary Apps',        sub: 'Apps that pair well with POUDA PDG8 Wellness to support your daily habits.' },
   nutrition:  { title: 'Protein & Meal Support',    sub: 'Vetted products for post-GLP-1 nutritional needs.' },
   telehealth: { title: 'Medical & Clinical Support', sub: 'Services for ongoing GLP-1 care and weight maintenance.' },
 }
@@ -280,7 +280,7 @@ export default function Resources() {
       {/* Affiliate disclaimer */}
       <div className="bg-warm-50 border border-warm-100 rounded-2xl px-4 py-3 text-xs text-warm-500 leading-relaxed">
         <span className="font-medium text-warm-600">Disclosure: </span>
-        Steady may earn a small commission from affiliate links at no extra cost to you. All resources are editorially selected based on quality and relevance to your maintenance journey.
+        POUDA PDG8 Wellness may earn a small commission from affiliate links at no extra cost to you. All resources are editorially selected based on quality and relevance to your maintenance journey.
       </div>
 
       {/* Filter tabs */}
