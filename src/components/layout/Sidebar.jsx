@@ -27,10 +27,9 @@ export default function Sidebar({ currentPage, onNavigate }) {
         </div>
         <span className="text-warm-900 font-semibold text-sm">POUDA PDG8</span>
 <p className="text-warm-400 text-[10px]">Wellness</p>
-          </div>
-      </div>
+</div>
 
-      {/* Nav links */}
+{/* Nav links */}
       <nav className="flex-1 px-3 py-4 space-y-0.5" aria-label="Main navigation">
         {NAV_ITEMS.map(({ id, label, icon: Icon }) => {
           const active = currentPage === id
