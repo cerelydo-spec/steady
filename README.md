@@ -1,4 +1,4 @@
-# Steady — GLP-1 Maintenance Coach
+# POUDA PDG8 Wellness — GLP-1 Maintenance Coach
 
 A personalized web coaching companion for adults in the weight maintenance phase following a GLP-1 medication program.
 
@@ -67,7 +67,7 @@ All personal health data (weight logs, meal logs, habits, profile) is stored exc
 
 ## Medical Disclaimer
 
-Steady is a wellness coaching tool and is **not a medical device**. It does not provide medical advice, diagnosis, or treatment. Always consult your healthcare provider before making changes to your nutrition, exercise, or medication regimen.
+POUDA PDG8 Wellness is a wellness coaching tool and is **not a medical device**. It does not provide medical advice, diagnosis, or treatment. Always consult your healthcare provider before making changes to your nutrition, exercise, or medication regimen.
 
 ## License
 
