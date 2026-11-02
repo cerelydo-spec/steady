@@ -1,8 +1,8 @@
-# Steady — GLP-1 Maintenance Coach
+# POUDA PDG8 Wellness — GLP-1 Maintenance Coach
 
 ## Project Overview
 
-Steady is a web-based wellness coaching companion for adults who have completed a GLP-1 medication program (Ozempic, Wegovy, Mounjaro, etc.) and are now in the long-term weight maintenance phase. The app provides habit tracking, nutrition logging, weight trend visualization, and AI coaching via Anthropic's Claude API.
+POUDA PDG8 Wellness is a web-based wellness coaching companion for adults who have completed a GLP-1 medication program (Ozempic, Wegovy, Mounjaro, etc.) and are now in the long-term weight maintenance phase. The app provides habit tracking, nutrition logging, weight trend visualization, and AI coaching via Anthropic's Claude API.
 
 **This is a wellness tool, not a medical device.** All guidance is educational and does not replace the advice of a qualified healthcare provider.
 
@@ -146,4 +146,4 @@ The key is accessed via `import.meta.env.VITE_ANTHROPIC_API_KEY`.
 
 ## Medical Disclaimer
 
-> Steady is a wellness coaching tool intended to support healthy lifestyle habits. It is not a medical device and does not provide medical advice, diagnosis, or treatment. Always consult your healthcare provider before making changes to your nutrition, exercise, or medication regimen. GLP-1 medication decisions should be made exclusively with your prescribing physician.
+> POUDA PDG8 Wellness is a wellness coaching tool intended to support healthy lifestyle habits. It is not a medical device and does not provide medical advice, diagnosis, or treatment. Always consult your healthcare provider before making changes to your nutrition, exercise, or medication regimen. GLP-1 medication decisions should be made exclusively with your prescribing physician.
