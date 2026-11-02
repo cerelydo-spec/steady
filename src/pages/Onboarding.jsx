@@ -121,7 +121,7 @@ export default function Onboarding({ onComplete }) {
           <div className="w-10 h-10 bg-teal-500 rounded-2xl flex items-center justify-center shadow-lg">
             <Leaf size={20} className="text-white" aria-hidden="true" />
           </div>
-          <span className="text-2xl font-semibold text-warm-900">Steady</span>
+          <span className="text-2xl font-semibold text-warm-900">POUDA PDG8 Wellness</span>
         </div>
 
         {/* Progress bar */}
@@ -149,7 +149,7 @@ export default function Onboarding({ onComplete }) {
                 <Leaf size={32} className="text-teal-500" aria-hidden="true" />
               </div>
               <div>
-                <h1 className="text-2xl font-semibold text-warm-900 mb-2">Welcome to Steady</h1>
+                <h1 className="text-2xl font-semibold text-warm-900 mb-2">Welcome to POUDA PDG8 Wellness</h1>
                 <p className="text-warm-600 leading-relaxed">
                   Your coaching companion for the maintenance phase. We'll help you build lasting habits, track your progress, and navigate life after GLP-1 medication — with clarity and without judgment.
                 </p>
@@ -178,12 +178,12 @@ export default function Onboarding({ onComplete }) {
                 <h2 className="text-xl font-semibold text-warm-900">Important Notice</h2>
               </div>
               <div className="bg-amber-50 border border-amber-100 rounded-xl p-4 text-sm text-amber-900 space-y-3 leading-relaxed">
-                <p><strong>Steady is a wellness coaching tool — not a medical device.</strong></p>
+                <p><strong>POUDA PDG8 Wellness is a wellness coaching tool — not a medical device.</strong></p>
                 <p>This app does not provide medical advice, diagnosis, or treatment. All guidance is educational and intended to support healthy habit formation during the post-GLP-1 maintenance phase.</p>
                 <p>Always consult your healthcare provider before changing your nutrition plan, exercise regimen, or any medication — including GLP-1 medications.</p>
                 <p>The AI coaching assistant (Sage) uses a large language model and may occasionally provide inaccurate information. Treat Sage's responses as general wellness guidance, not clinical recommendations.</p>
               </div>
-              <p className="text-xs text-warm-500">By continuing, you acknowledge that Steady is a wellness tool and agree to consult your healthcare provider for medical decisions.</p>
+              <p className="text-xs text-warm-500">By continuing, you acknowledge that POUDA PDG8 Wellness is a wellness tool and agree to consult your healthcare provider for medical decisions.</p>
             </div>
           )}
 
