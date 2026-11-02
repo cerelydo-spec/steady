@@ -192,7 +192,7 @@ export default function Settings({ profile, settings, onSaveSettings, onSaveProf
       {/* Disclaimer */}
       <Card>
         <h2 className="section-title mb-3">Medical disclaimer</h2>
-        <p className="text-sm text-warm-600 mb-3">Steady is a wellness coaching tool. It does not provide medical advice, diagnosis, or treatment.</p>
+        <p className="text-sm text-warm-600 mb-3">POUDA PDG8 Wellness is a wellness coaching tool. It does not provide medical advice, diagnosis, or treatment.</p>
         <Button variant="secondary" onClick={() => setShowDisclaimer(true)}>
           <ShieldAlert size={15} /> Read full disclaimer
         </Button>
@@ -208,7 +208,7 @@ export default function Settings({ profile, settings, onSaveSettings, onSaveProf
       </Card>
 
       {/* Version */}
-      <p className="text-xs text-warm-300 text-center pb-2">Steady v0.1.0 · Built with React + Tailwind + Anthropic</p>
+      <p className="text-xs text-warm-300 text-center pb-2">POUDA PDG8 Wellness v0.1.0 · Built with React + Tailwind + Anthropic</p>
 
       <DisclaimerModal isOpen={showDisclaimer} onClose={() => setShowDisclaimer(false)} />
 
